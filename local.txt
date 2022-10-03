@@ -1,4 +1,8 @@
 sai pradeep
 creating file
+<<<<<<< HEAD
 and creating branch
 git branching from sai
+=======
+and creating branch
+>>>>>>> 1b524da1cfa6d62edaadcb52473203dda4ce6c96
